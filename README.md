@@ -46,29 +46,3 @@
 **Frontend:** React · HTML · CSS · Bootstrap
 
 ---
-
-## How I work (TL;DR)
-
-1. Start with a small, working prototype.  
-2. Add tests and simple CI.  
-3. Iterate only where value is obvious.  
-4. Keep interfaces clean — break changes aren’t free.
-
----
-
-## Repo README standard (copy into new projects)
-
-```md
-# Project name
-Short one-line description.
-
-## Why
-What problem this solves.
-
-## Quick start
-```bash
-# clone
-git clone https://github.com/8zj/REPO_NAME.git
-cd REPO_NAME
-# run
-./start.sh
