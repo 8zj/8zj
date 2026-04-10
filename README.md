@@ -1,24 +1,50 @@
-# Hi there, I'm [8zj] 👋
+# 👋 Hey, I'm 8zj
 
-Welcome to my GitHub profile! I'm a passionate developer with experience in various programming languages. I love working on Roblox scripts, exploits, and web development.
+> Building scripts, breaking limits, and creating tools that actually work.
 
-### 🚀 Skills
-- **Roblox Scripting**: Lua
-- **Programming**: Python, Lua, HTML, CSS
-- **Web Development**: HTML, CSS, JavaScript
-- **Exploits**: Creating custom scripts for Roblox
+Welcome to my GitHub profile. I focus on **Roblox scripting, automation, and web-based tools**, with an emphasis on performance, clean code, and real-world usability.
 
-### 📫 How to reach me:
-- [Discord: pickontop1091]
+---
 
-### 📜 My GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=8zj&show_icons=true&count_private=true&hide_title=true)
+## ⚡ Tech Stack
 
-### 🏆 Badges
-![Lua](https://img.shields.io/badge/Lua-2c2d72?style=flat&logo=lua&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white)
+**Languages**
 
-### 📜 Featured Projects
-- **[Project 1](https://github.com/8zj/TDSHub)**: Description of your first project.
+* Lua (Roblox)
+* Python
+* JavaScript
+
+**Web**
+
+* HTML5
+* CSS3
+* UI/UX Design
+
+**Specialties**
+
+* Roblox systems & scripting
+* Automation tools
+* Reverse engineering & debugging
+* Script optimization
+
+---
+
+## 🧠 What I Do
+
+* Develop advanced **Roblox scripts & systems**
+* Build **custom tools & loaders**
+* Work on **performance-focused solutions**
+* Experiment with **client-side mechanics & protections**
+
+---
+
+## 🚀 Featured Project
+
+### 🔹 TDSHub
+
+A custom-built hub focused on automation, efficiency, and gameplay enhancement.
+
+➡️ [PickHub](https://pickscripthub.xyz/)
+
+---
+> “Code smarter, not louder.”
